@@ -1,0 +1,24 @@
+# Core Python libraries
+pandas
+numpy
+matplotlib
+scikit-learn
+tqdm
+
+# Time series modeling
+statsmodels
+pmdarima
+prophet
+
+# Machine learning / deep learning
+tensorflow
+xgboost
+lightgbm
+
+# Experiment tracking & backtesting
+vectorbt
+optuna
+
+# Notebook support
+jupyter
+ipykernel
